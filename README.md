@@ -16,4 +16,4 @@ I enjoy building circuits, interfacing sensors and electronic modules, troublesh
 
 ## Connect with Me
 - GitHub: https://github.com/deepikak2822
-- LinkedIn: https://www.linkedin.com/in/deepika-k-a41303/
+- LinkedIn: https://www.linkedin.com/in/deepikak2822
